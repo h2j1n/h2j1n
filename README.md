@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=9FC93C&height=200&section=header&text=🍀HEEJIN🍀&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40)
 
 
-## Hi there 👋
-## H2J1N 👋
+## Welcome my github plofile 👋
 
 <!--
 **h2j1n/h2j1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=java&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h2j1n)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h2j1n)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
