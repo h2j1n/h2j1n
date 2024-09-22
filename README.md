@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9FC93C&height=200&section=header&text=🍀HEEJIN🍀&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40" />
 </div>
 
-## Welcome my github plofile 👋
+## Welcome my github profile 👋
 <br><br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
